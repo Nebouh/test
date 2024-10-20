@@ -1,0 +1,1 @@
+echo -e '\nimport os\nprint(os.environ)' >> "python-example-app/run_tests.py"
